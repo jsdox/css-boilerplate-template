@@ -23,3 +23,10 @@ html, body{
     padding: 20px;
     background-color: red;
 }
+.container-inner{
+    width: 400px;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+    background-color: red;
+}
